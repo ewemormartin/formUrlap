@@ -1,0 +1,10 @@
+fieldset{
+    background-color: lightblue;
+    width: 200px;
+    margin: auto;
+}
+
+
+input{
+    margin: 5px;
+}
